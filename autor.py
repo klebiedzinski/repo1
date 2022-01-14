@@ -1,1 +1,1 @@
-Cześć jestem Karol Lebiedziński
+print "Cześć jestem Karol Lebiedziński"
